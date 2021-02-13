@@ -1,2 +1,2 @@
 # tictactoe
-This is tictactoe game
+This is tictactoe game using JAVA
